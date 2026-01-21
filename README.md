@@ -1,10 +1,11 @@
 # 🏥 Diabetes Prediction: A Comparative Analysis
 
-**A Data Science project demonstrating how advanced preprocessing and model selection drive predictive performance in medical diagnostics.**
+**A benchmark study comparing 5 Machine Learning algorithms (Linear vs. Tree-based) to diagnose diabetes.**
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit_Learn-orange?logo=scikit-learn)
 ![XGBoost](https://img.shields.io/badge/Model-XGBoost-red)
+![Comparison](https://img.shields.io/badge/Models_Compared-5-indigo)
 ![Status](https://img.shields.io/badge/Status-Completed-green)
 
 ## 📌 Overview
